@@ -37,17 +37,17 @@ The code above would create a table with four rows. Next to create some columns 
     <th> Difficulty </th>
   </tr>
   <tr>
-    <td>  Chocolate Lava Cake  </td>
+    <td> Chocolate Lava Cake </td>
     <td> 475 </td>
     <td> Hard </td>
   </tr>
   <tr>
-    <td>  Crêpe Suzette  </td>
+    <td> Crêpe Suzette </td>
     <td> 380 </td>
     <td> Medium </td>
   </tr>
   <tr>
-    <td>  Banana Split  </td>
+    <td> Banana Split </td>
     <td> 724 </td>
     <td> Easy </td>
   </tr>
