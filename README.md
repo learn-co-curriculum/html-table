@@ -6,7 +6,7 @@ In this quick reading lesson we will learn about making tables in HTML.
 
 ## What's Covered in This Lesson 
 
-1. HTML Table element
+1. HTML table element
 
 ## Tables
 
@@ -54,7 +54,7 @@ The code above would create a table with four rows. Next to create some columns 
 </table>
 ```
 
-Below we can se ethe table that is created form this code. We also added a stroke so you can see the edges of the table.
+Below we can see the table that is created from this code. We also added a black border so you can see the edges of the table easily.
 
 <table style="border-collpase: collapse; border: 1px solid black;">
   <tr>
