@@ -78,3 +78,14 @@ Below we can se ethe table that is created form this code. We also added a strok
     <td> Easy </td>
   </tr>
 </table>
+
+## Summary
+
+- HTML tables can be defined as `<table><tr><td>...</td></tr></table>`.
+- We can define rows inside of tables as `<tr>` and cells inside of rows as either `<th>` header cell or `<td>` normal cells.
+
+## Resources
+
+- [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
