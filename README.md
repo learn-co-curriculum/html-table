@@ -21,9 +21,60 @@ We start off with the `<table>` element. Then we fill it with rows using `<tr>` 
 ```html
 <table>
   <tr>...</tr>
-  <tr>...<tr>
+  <tr>...</tr>
+  <tr>...</tr>
   <tr>...</tr>
 </table>
 ```
 
-The code above would create a table with three rows. next to create some columns we can insert `<th>` to create header cells, and `<td>` to create normal cells.
+The code above would create a table with four rows. Next to create some columns within each row, we can insert `<th>` to create header cells, and `<td>` to create normal cells.
+
+```html
+<table>
+  <tr>
+    <th> Recipe </th>
+    <th> Calories Per Serving </th>
+    <th> Difficulty </th>
+  </tr>
+  <tr>
+    <td>  Chocolate Lava Cake  </td>
+    <td>  475  </td>
+    <td> Hard </td>
+  </tr>
+  <tr>
+    <td>  Crêpe Suzette  </td>
+    <td>  380  </td>
+    <td> Medium </td>
+  </tr>
+  <tr>
+    <td>  Banana Split  </td>
+    <td>  724  </td>
+    <td> Easy </td>
+  </tr>
+</table>
+```
+
+Below we can se ethe table that is created form this code. We also added a stroke so you can see the edges of the table.
+
+<table style="border-collpase: collapse; border: 1px solid black;">
+  <tr>
+    <th> Recipe </th>
+    <th> Calories Per Serving </th>
+    <th> Difficulty </th>
+  </tr>
+  <tr>
+    <td>  Chocolate Lava Cake  </td>
+    <td>  475  </td>
+    <td> Hard </td>
+  </tr>
+  <tr>
+    <td>  Crêpe Suzette  </td>
+    <td>  380  </td>
+    <td> Medium </td>
+  </tr>
+  <tr>
+    <td>  Banana Split  </td>
+    <td>  724  </td>
+    <td> Easy </td>
+  </tr>
+</table>
