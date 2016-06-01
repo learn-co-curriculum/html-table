@@ -4,13 +4,13 @@
 
 In this quick reading lesson we will learn about making tables in HTML.
 
-## What's Covered in This Lesson 
+## What's Covered in This Lesson
 
 1. HTML table element
 
 ## Tables
 
-Let's say you are building a web site to feature dessert recipes and yopu wish to insert a table of related data about each desert such as name, level of difficulty, calories, etc. Here using an HTML table will come in handy.
+Let's say you are building a web site to feature dessert recipes and you wish to insert a table of related data about each dessert such as name, level of difficulty, calories, etc. Using an HTML table will come in handy.
 
 ```html
 <table>...</table>
@@ -89,3 +89,4 @@ Below we can see the table that is created from this code. We also added a black
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+- [Mozilla Developer Network - <table>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
